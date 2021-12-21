@@ -2,11 +2,21 @@
 //7elw
 using namespace std;
 int main() {
+	// le variabili combiate da n1/n2 a num1 / num2 
 	
-	int n1=1;
-	int n2=1;
+	int num1=1;
+	int num2=1;
 	int temp;
+	
+	
+	// number 1 request 
+	
+	cout<<"inserisci il primo numero : ";
 	cout<<n1;
+	
+	// request no.2 
+	
+	cout<<"insersci il secondo numero : ";
 	cuot<<n2;
 	
 	
@@ -15,7 +25,7 @@ int main() {
 	
 	
 	
-	/*string nome[4];
+	string nome[4];
 	int voto1[4];
 	int voto2[4];
 	int media[4];
@@ -46,7 +56,7 @@ int main() {
 		
 		}
 		cout<<"la media piu' maggiore e' di "<<nomem<<" la sua media e' "<<maggiore<<endl;
-	    */
+	    
 	
 	
 	
